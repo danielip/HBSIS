@@ -1,0 +1,6 @@
+c:\users\danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\ROCK-PAPER-SCISSORS.exe.config
+C:\Users\Danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\ROCK-PAPER-SCISSORS.csprojResolveAssemblyReference.cache
+C:\Users\Danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\ROCK-PAPER-SCISSORS.exe
+C:\Users\Danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\ROCK-PAPER-SCISSORS.pdb
+C:\Users\Danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\ROCK-PAPER-SCISSORS.exe
+C:\Users\Danieli\documents\visual studio 2012\Projects\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\ROCK-PAPER-SCISSORS.pdb
