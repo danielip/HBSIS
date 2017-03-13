@@ -31,9 +31,11 @@ namespace ROCK_PAPER_SCISSORS
                 Console.WriteLine("As rodadas devem conter 2 jogadores");
                 Console.Read();
             }
-
-
-
+            catch(Exception)
+            {
+                Console.WriteLine("Ocorreu um erro na execução do programa");
+                Console.Read();
+            }
         }
     }
 }
