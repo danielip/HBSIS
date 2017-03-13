@@ -1,1 +1,0 @@
-O arquivo configuracaoTorneio.txt deve ser inserido no local: C:\Temp
